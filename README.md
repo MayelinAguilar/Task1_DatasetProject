@@ -1,47 +1,76 @@
 # Task1_DatasetProject
-
-Mayelin Stefania Aguilar Vásquez
-
-Introducción:
-
-La información obtenida fue de la página del Departamento Nacional de Planeación, con el fin de analizar la inversión en varios sectores como educación, interior, salud, cultura e inclusión social, entre otros. Lo que permitirá ver con más claridad la distribución de los recursos de inversión a nivel territorial, adoptadad por cada entidad gubernamental.
-
-Objetivos:
-
-General
-
-Medir a través del marco de desempeño de resultados y productos, mediante visualizaciones hechas en pyhton.
-
-Especificos:
-
-- Visualizar datos generales de todos los sectores
-- Seleccionar los sectores que tienen mayor importancia en el desarrollo productivo y equitativo del país
-- Comparar los datos obtenidos con otras fuentes a disposición del público
-
-
-Marco teórico
-
-Existe un Manual de Clasificación de la Inversión Pública donde explican las definiciones de la clasificación de los sectores, lineamientos para clasificar proyectos sectoriales, que tipos de programas y subprogramas presupuestales existen y como aplicarlo. Está dirigido por el artículo 2.2.6.2.1. del Decreto 1082 de 2015, se realiza con el fin de:
-
-"- Facilitar y orientar la formulación de los programas, subprogramas y proyectos de inversión.
- - Orientar las decisiones de gobierno en todos sus niveles (nación y territorio), los Órganos Autónomos y el Congreso de    la República sobre qué se quiere lograr con los recursos públicos.
- - Avanzar hacia la consolidación de un Presupuesto Orientado a Resultados.
- - Propender por una correcta articulación entre planeación, presupuestación y ejecución del gasto.
- - Garantizar una adecuada comprensión y análisis del presupuesto por parte de la ciudadanía."
- (Manual de clasificación presupuestal, 2017)
- 
-Para entender donde esta ubicado el sector, se encuentrea dentro de las definiciones del marco de clasificación se divide en: 
-
-- sección: Es la identidad responsable y ejecutora de los recursos
-- programa: encargado de coordinar los  proyectos de inversión y actividades mediante la intervesión del gobierno, quien   establece metas para la obtención de resultados
-- subprograma: son los sectores que se evalúan en Task1_DatasetProject, esta divido en plan estratégico que incluye una serie de proyectos específicos que trabajan juntos para lograr objetivos a largo plazo en un campo particular.   
-- Proyecto: son los proyectos de inversión pública para mejorar, crear, recuperar la capacidad de producción de bienes y servicios por el estado
-
-Bibliografia
-
-Economía y Finanzas. (26 Marzo 2023). DNP-ProductoSector. Departamento Nacional de Planeación. Recuperado de: https://www.datos.gov.co/Econom-a-y-Finanzas/DNP-ProductoSector/8kfp-z3my
-
-DNP.(Junio 2017). Manual de Clasificación de la Inversión Pública. Dirección de Inversiones y Finanzas Públicas Subdirección de Proyectos e Información para la Inversión Pública. Recuperado de: https://colaboracion.dnp.gov.co/CDT/Inversiones%20y%20finanzas%20pblicas/MGA_WEB/Manual%20Clasificaci%C3%B3n%20Presupuestal.pdf
-
-
 # Task1_DatasetProject
+
+<h1>Análisis de inversiones en Sectores del País según DNP </h1>
+
+<h2>Introducción</h2> <br>
+<p>En base a datos recopilados del Departamento Nacional de Planeación, se ha obtenido información relevante para realizar un análisis de la inversión en diversos sectores clave, como educación, interior, salud, cultura e inclusión social, entre otros. El objetivo principal de este análisis es comprender de manera más precisa la distribución de los recursos de inversión a nivel territorial, implementada por las distintas entidades gubernamentales.</p> <br>
+
+<h2>Objetivos</h2> <br>
+
+<h3>General</h3> <br>
+<p>Evaluar los sectores mediante el marco de desempeño de inversión en diferentes sectores de Colombia, empleando visualizaciones.</p>
+
+<h3>Específicos</h3> <br>
+<ol>
+  <li>Visualizar datos generales de todos los sectores</li>
+  <li>Seleccionar los sectores que tienen mayor importancia en el desarrollo productivo y equitativo del país</li>
+  <li>Comparar los datos obtenidos con otras fuentes a disposición del público</li>
+</ol> <br>
+
+<h2>Manual de Clasificación de la Inversión Pública</h2>
+
+<p>El Manual de Clasificación de la Inversión Pública es una herramienta que proporciona las definiciones y lineamientos necesarios para la clasificación de los sectores, así como para la formulación de programas, subprogramas y proyectos de inversión. Este manual está dirigido por el artículo 2.2.6.2.1. del Decreto 1082 de 2015 y tiene como objetivos principales:</p>
+
+<ol>
+  <li>Facilitar y orientar la formulación de los programas, subprogramas y proyectos de inversión.</li>
+  <li>Orientar las decisiones de gobierno en todos sus niveles (nación y territorio), los Órganos Autónomos y el Congreso de la República sobre qué se quiere lograr con los recursos públicos.</li>
+  <li>Avanzar hacia la consolidación de un Presupuesto Orientado a Resultados.</li>
+  <li>Propender por una correcta articulación entre planeación, presupuestación y ejecución del gasto.</li>
+  <li>Garantizar una adecuada comprensión y análisis del presupuesto por parte de la ciudadanía (Manual de clasificación presupuestal, 2017).</li>
+</ol>
+
+<p>Para comprender la ubicación de un sector dentro de la clasificación, se hace necesario entender las definiciones del marco de clasificación, que se divide en los siguientes niveles:</p>
+
+<h2>Sección</h2>
+<p>La sección es la identidad responsable y ejecutora de los recursos. Representa una agrupación de sectores afines y tiene a su cargo la gestión de programas y proyectos relacionados.</p>
+
+<h2>Programa</h2>
+<p>El programa es el nivel encargado de coordinar los proyectos de inversión y actividades mediante la intervención del gobierno. Establece metas para la obtención de resultados y busca generar impacto en la sociedad.</p>
+
+<h2>Subprograma</h2>
+<p>El subprograma es una subdivisión del programa que se evalúa en el Task1_DatasetProject. Está compuesto por un plan estratégico que incluye una serie de proyectos específicos que trabajan juntos para lograr objetivos a largo plazo en un campo particular.</p>
+
+<h2>Proyecto</h2>
+<p>El proyecto corresponde a los proyectos de inversión pública, los cuales tienen como objetivo mejorar, crear o recuperar la capacidad de producción de bienes y servicios por parte del Estado.</p>
+
+<p>A través de la clasificación de la inversión pública en estos niveles, se busca promover la eficiencia en la asignación de recursos y asegurar que se alcancen los resultados esperados en términos de beneficios para la sociedad.(Manual de clasificación presupuestal (2017))</p>
+
+<p>Las inversiones públicas se clasifican en: </p>
+
+<pre>
+<code>
+array(['Interior', 'Inclusión Social Y Reconciliación',
+       'Agricultura Y Desarrollo Rural', 'Cultura', 'Educación',
+       'Deporte Y Recreación', 'Ambiente Y Desarrollo Sostenible',
+       'Transporte', 'Vivienda Ciudad Y Territorio',
+       'Gobierno Territorial', 'Salud Y Protección Social',
+       'Ciencia Tecnología E Innovación', 'Planeación', 'Minas Y Energía',
+       'Trabajo', 'Comercio Industria Y Turismo',
+       'Presidencia De La República', 'Empleo Público',
+       'Justicia Y Del Derecho', 'Información Estadística', 'Hacienda',
+       'Tecnologías De La Información Y Las Comunicaciones',
+       'Organismos De Control', 'Fiscalía', 'Rama Judicial',
+       'Registraduría', 'Congreso De La República',
+       'Relaciones Exteriores',
+       'Sistema Integral De Verdad Justicia Reparación Y No Repetición'],
+      dtype=object)
+</code>
+</pre>
+
+
+
+
+
+
+
