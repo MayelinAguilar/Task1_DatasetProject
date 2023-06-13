@@ -70,7 +70,7 @@ array(['Interior', 'Inclusión Social Y Reconciliación',
 <br>
 <p>La evaluación por sector nos brinda una visión clara de cómo se distribuye la inversión, revelando cuáles sectores han recibido un mayor flujo de recursos y cuáles han experimentado una menor asignación financiera. Este análisis nos permite identificar las áreas de mayor interés y enfoque para la inversión pública, así como aquellas que podrían requerir una mayor atención y apoyo. Al comprender esta distribución de la inversión, podemos tomar decisiones informadas y estratégicas para maximizar el impacto de los recursos y garantizar un desarrollo equitativo y sostenible en todos los sectores involucrados.</p>
 
- <img src="Figure_1.jpg" alt="Inversión por sectores">
+ <img src="https://github.com/MayelinAguilar/Task1_DatasetProject/blob/main/Figure_1.png" alt="Inversión por sectores">
 
 
 
