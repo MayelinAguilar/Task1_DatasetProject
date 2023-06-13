@@ -32,16 +32,16 @@
 
 <p>Para comprender la ubicación de un sector dentro de la clasificación, se hace necesario entender las definiciones del marco de clasificación, que se divide en los siguientes niveles:</p>
 
-<h2>Sección</h2>
+<h3>Sección</h3>
 <p>La sección es la identidad responsable y ejecutora de los recursos. Representa una agrupación de sectores afines y tiene a su cargo la gestión de programas y proyectos relacionados.</p>
 
-<h2>Programa</h2>
+<h3>Programa</h3>
 <p>El programa es el nivel encargado de coordinar los proyectos de inversión y actividades mediante la intervención del gobierno. Establece metas para la obtención de resultados y busca generar impacto en la sociedad.</p>
 
-<h2>Subprograma</h2>
+<h3>Subprograma</h3>
 <p>El subprograma es una subdivisión del programa que se evalúa en el Task1_DatasetProject. Está compuesto por un plan estratégico que incluye una serie de proyectos específicos que trabajan juntos para lograr objetivos a largo plazo en un campo particular.</p>
 
-<h2>Proyecto</h2>
+<h3>Proyecto</h3>
 <p>El proyecto corresponde a los proyectos de inversión pública, los cuales tienen como objetivo mejorar, crear o recuperar la capacidad de producción de bienes y servicios por parte del Estado.</p>
 
 <p>A través de la clasificación de la inversión pública en estos niveles, se busca promover la eficiencia en la asignación de recursos y asegurar que se alcancen los resultados esperados en términos de beneficios para la sociedad.(Manual de clasificación presupuestal (2017))</p>
@@ -67,7 +67,10 @@ array(['Interior', 'Inclusión Social Y Reconciliación',
       dtype=object)
 </code>
 </pre>
+<br>
+<p>La evaluación por sector nos brinda una visión clara de cómo se distribuye la inversión, revelando cuáles sectores han recibido un mayor flujo de recursos y cuáles han experimentado una menor asignación financiera. Este análisis nos permite identificar las áreas de mayor interés y enfoque para la inversión pública, así como aquellas que podrían requerir una mayor atención y apoyo. Al comprender esta distribución de la inversión, podemos tomar decisiones informadas y estratégicas para maximizar el impacto de los recursos y garantizar un desarrollo equitativo y sostenible en todos los sectores involucrados.</p>
 
+ <img src="Figure_1.jpg" alt="Inversión por sectores">
 
 
 
