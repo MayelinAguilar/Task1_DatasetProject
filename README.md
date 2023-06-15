@@ -128,11 +128,11 @@ Sistema Integral De Verdad Justicia Reparación Y No Repetición       88
 
 <p>A continuación se puede ver cuantas veces se ha invertido en estos sectores flutuan en el gráfico de Avance de indicador, donde hay mayor concentración y que se espera por lo menos para el siguiente año como sería su comportamiento, en temas de avance de desarrollo. </p> <br>
 
-<img src="https://github.com/MayelinAguilar/Task1_DatasetProject/blob/main/Dispersi%C3%B3n.png?raw=true" alt="Dispersión">
+<img src="https://github.com/MayelinAguilar/Task1_DatasetProject/blob/main/dispersion.png?raw=true" alt="Dispersión">
 
 <p>Para comprender su comportamiento, se puede utilizar esta regresión lineal como una representación de las inversiones realizadas en Colombia a lo largo del tiempo.</p> <br>
 
-<img src="https://github.com/MayelinAguilar/Task1_DatasetProject/blob/main/linealizacion.png?raw=true"alt="linealizacion">
+<img src="https://github.com/MayelinAguilar/Task1_DatasetProject/blob/main/linealizacion.png?raw=true" alt="Tendencia Lineal">
 
 <p>A través del análisis de los datos, se puede apreciar claramente una tendencia decreciente en la inversión destinada al sistema integral de verdad, justicia, reparación y no repetición en Colombia. Este fenómeno puede ser atribuido a los complejos conflictos geopolíticos que han impactado al país en los últimos años. Estas circunstancias han generado desafíos significativos para la implementación y financiamiento de programas orientados a la reconciliación y la justicia, afectando así la asignación de recursos en este importante sector. Es fundamental abordar estos desafíos para promover una paz sostenible y garantizar la construcción de un futuro más equitativo y reconciliado en Colombia.</p> <br>
 
@@ -140,13 +140,11 @@ Sistema Integral De Verdad Justicia Reparación Y No Repetición       88
 
 <img src="https://github.com/MayelinAguilar/Task1_DatasetProject/blob/main/linealizacion.png?raw=true" alt="linealizacion">
 
+<h2>Bibliografia</h2> <br>
+
 <p>
 Por último, al hacer una proyección de futuras inversiones, se vislumbra que el sector transporte continuará siendo una prioridad destacada. Además, se prevé un crecimiento significativo en el sector de Educación. Sin embargo, es importante destacar que el sector trabajo presenta un aumento modesto, ya que muchas personas aún se enfrentan a limitaciones en recursos y la visión empresarial y tecnológica en Colombia aún muestra brechas significativas. Es fundamental abordar estas limitaciones y promover un enfoque más sólido en la creación de empresas y la adopción de nuevas tecnologías, para impulsar un desarrollo económico más inclusivo y sostenible en el país.</p> 
 
 <p>DNP (Mayo 2018), Dirección de Inversiones y Finanzas Públicas, Subdirección de Proyectos e Información para la Inversión Pública. Manual de Clasificación de la Inversión Pública (Versión 5).Recuperado de: https://colaboracion.dnp.gov.co/CDT/Inversiones%20y%20finanzas%20pblicas/MGA_WEB/Manual%20clasificaci%C3%B3n%20de%20la%20inversi%C3%B3n%20V%205.0.pdf </p> <br>
 
 <p>DNP (Febrero 2023),Mamnual de clasificación progrmático del gasto Público. Dirección de Proyectos e Información para la Inversión Pública. (Versión 6.7).Recuperado de: https://mgaayuda.dnp.gov.co/Recursos/Manual_de_clasificacion_programatico.pdf </p> <br>
-
-
-
-
