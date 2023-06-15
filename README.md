@@ -140,10 +140,10 @@ Sistema Integral De Verdad Justicia Reparación Y No Repetición       88
 
 <img src="https://github.com/MayelinAguilar/Task1_DatasetProject/blob/main/linealizacion.png?raw=true" alt="linealizacion">
 
-<h2>Bibliografia</h2> <br>
-
 <p>
 Por último, al hacer una proyección de futuras inversiones, se vislumbra que el sector transporte continuará siendo una prioridad destacada. Además, se prevé un crecimiento significativo en el sector de Educación. Sin embargo, es importante destacar que el sector trabajo presenta un aumento modesto, ya que muchas personas aún se enfrentan a limitaciones en recursos y la visión empresarial y tecnológica en Colombia aún muestra brechas significativas. Es fundamental abordar estas limitaciones y promover un enfoque más sólido en la creación de empresas y la adopción de nuevas tecnologías, para impulsar un desarrollo económico más inclusivo y sostenible en el país.</p> 
+
+<h2>Bibliografia</h2> <br>
 
 <p>DNP (Mayo 2018), Dirección de Inversiones y Finanzas Públicas, Subdirección de Proyectos e Información para la Inversión Pública. Manual de Clasificación de la Inversión Pública (Versión 5).Recuperado de: https://colaboracion.dnp.gov.co/CDT/Inversiones%20y%20finanzas%20pblicas/MGA_WEB/Manual%20clasificaci%C3%B3n%20de%20la%20inversi%C3%B3n%20V%205.0.pdf </p> <br>
 
