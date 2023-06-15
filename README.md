@@ -68,6 +68,8 @@ array(['Interior', 'Inclusión Social Y Reconciliación',
 </code>
 </pre>
 <br>
+<h2>¿Cuáles son las implicaciones económicas y sociales de la distribución desigual de la inversión en los sectores de trabajo e innovación tecnológica en Colombia, y cómo podrían abordarse estas disparidades para promover un desarrollo equitativo y sostenible en el país?</h2>
+<br>
 <p>La evaluación por sector nos brinda una visión clara de cómo se distribuye la inversión, revelando cuáles sectores han recibido un mayor flujo de recursos y cuáles han experimentado una menor asignación financiera. Este análisis nos permite identificar las áreas de mayor interés y enfoque para la inversión pública, así como aquellas que podrían requerir una mayor atención y apoyo. Al comprender esta distribución de la inversión, podemos tomar decisiones informadas y estratégicas para maximizar el impacto de los recursos y garantizar un desarrollo equitativo y sostenible en todos los sectores involucrados.</p>
 
 <img src="https://github.com/MayelinAguilar/Task1_DatasetProject/blob/main/Figure_1.png" alt="Inversión por sectores">
@@ -142,6 +144,16 @@ Sistema Integral De Verdad Justicia Reparación Y No Repetición       88
 
 <p>
 Por último, al hacer una proyección de futuras inversiones, se vislumbra que el sector transporte continuará siendo una prioridad destacada. Además, se prevé un crecimiento significativo en el sector de Educación. Sin embargo, es importante destacar que el sector trabajo presenta un aumento modesto, ya que muchas personas aún se enfrentan a limitaciones en recursos y la visión empresarial y tecnológica en Colombia aún muestra brechas significativas. Es fundamental abordar estas limitaciones y promover un enfoque más sólido en la creación de empresas y la adopción de nuevas tecnologías, para impulsar un desarrollo económico más inclusivo y sostenible en el país.</p> 
+
+<h2>Conclusiones</h2>
+
+<ol>
+  <li>La inversión en el sector de Transporte es la más alta, lo cual indica su relevancia y potencial en el panorama económico actual. Sin embargo, es necesario enfocar los esfuerzos en mejorar la infraestructura y modernización del sistema de transporte para garantizar un desarrollo sostenible en la industria.</li>
+  <li>Otros sectores que han recibido una alta inversión son Educación, Inclusión Social y Reconciliación. Estos sectores son fundamentales para el desarrollo equitativo del país y deben seguir recibiendo atención y apoyo.</li>
+  <li>Por otro lado, sectores como Innovación Tecnológica, Trabajo y Empleo Público presentan una menor inversión. Estos sectores son igualmente importantes y requieren políticas y estrategias que impulsen su crecimiento y generen oportunidades para la población.</li>
+  <li>La inversión en el sector de Verdad, Justicia, Reparación y No Repetición ha disminuido en los últimos años debido a los complejos conflictos geopolíticos que ha enfrentado el país. Es fundamental abordar estos desafíos para promover una paz sostenible y garantizar el desarrollo equitativo en Colombia.</li>
+  <li>Se proyecta que el sector de Transporte y Educación seguirán siendo prioridades en términos de inversión futura. Sin embargo, es necesario abordar las limitaciones en recursos y brechas tecnológicas en el sector Trabajo para promover un desarrollo económico más inclusivo y sostenible.</li>
+</ol> <br>
 
 <h2>Bibliografia</h2> <br>
 
